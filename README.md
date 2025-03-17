@@ -1,0 +1,2 @@
+# exNumpy
+lista de exercicios
